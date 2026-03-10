@@ -59,6 +59,22 @@ Abaixo, os resultados da análise exploratória realizada sobre o comportamento 
 ### 🔍 Destaque Analítico: Curva de Churn
 Através das queries de `LEFT JOIN` entre o primeiro e o último dia, foi possível identificar a queda gradual de participação, permitindo entender o "drop-off" dos alunos e a aderência ao conteúdo longo.
 
+
+<div align="center">
+
+  <br>
+
+  <h4>Curva de Churn (Retenção)</h4>
+  <img src="curva de churn.PNG" width="700" alt="Curva de Churn">
+  <p><i>Figura 1: Representação da retenção dos alunos presentes no primeiro dia ao longo dos 5 dias de curso.</i></p>
+  <br>
+
+  <h4>Engajamento por Transações</h4>
+  <img src="engajamento.PNG" width="700" alt="Engajamento">
+  <p><i>Figura 2: Volume de interações por dia no ecossistema Téo Me Why.</i></p>
+
+</div>
+
 ---
 
 ## 🏆 Projeto Final: Feature Store de Cliente
