@@ -96,5 +96,3 @@ O script `05_pf_aula.sql` consolida o perfil comportamental:
 👋 Conecte-se comigo!
 Estou sempre aberta a trocar ideias sobre SQL, dados e como transformar dados em histórias.
 
---- 
-*Projeto desenvolvido por [Seu Nome] como parte do portfólio de análise de dados.*
